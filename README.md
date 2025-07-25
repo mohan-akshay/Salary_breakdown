@@ -60,5 +60,3 @@ With the rapid growth of the data industry, professionals often lack visibility 
 - Built a reusable data storytelling template for future compensation datasets
 
 ---
-
-📌 Optional: Add screenshots or a link to the Power BI report (e.g., hosted on Power BI Service or published to web)
